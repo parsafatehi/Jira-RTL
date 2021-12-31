@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "RTL for Jira",
+  "version": "0.0.1",
+  "description": "RTL for Jira is a Chrome extension that adds RTL support to Jira.",
+
+  "content_scripts": [{
+    "matches": ["https://*.atlassian.net/*"],
+    "css": ["css/jira.css", "css/font.css"],
+    "js": ["content.js"]
+  }],
+
+  "web_accessible_resources": [
+    "css/font.css",
+    "font/*"
+    ]
+
+}

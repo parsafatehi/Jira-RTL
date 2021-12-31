@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'JiraRTL';
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Regular.eot');
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Regular.woff2') format('woff2'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Regular.woff') format('woff'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+0600-06FF;
+}
+@font-face {
+  font-family: 'JiraRTL';
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Bold.eot');
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Bold.woff2') format('woff2'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Bold.woff') format('woff'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  unicode-range: U+0600-06FF;
+}
+@font-face {
+  font-family: 'JiraRTL';
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Black.eot');
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Black.eot?#iefix') format('embedded-opentype'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Black.woff2') format('woff2'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Black.woff') format('woff'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  unicode-range: U+0600-06FF;
+}
+@font-face {
+  font-family: 'JiraRTL';
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Medium.eot');
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Medium.woff2') format('woff2'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Medium.woff') format('woff'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0600-06FF;
+}
+@font-face {
+  font-family: 'JiraRTL';
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Light.eot');
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Light.eot?#iefix') format('embedded-opentype'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Light.woff2') format('woff2'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Light.woff') format('woff'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  unicode-range: U+0600-06FF;
+}
+@font-face {
+  font-family: 'JiraRTL';
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Thin.eot');
+  src: url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Thin.woff2') format('woff2'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Thin.woff') format('woff'),
+       url('chrome-extension://__MSG_@@extension_id__/font/Vazir-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  unicode-range: U+0600-06FF;
+}
